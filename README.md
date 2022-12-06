@@ -12,7 +12,7 @@ When the GPS receiver gets this signal it will calculate the time taken by this 
 
 We need at least four satelliates to have a **LoS** (Line of Sight Path) to the receiver because if we have only one device there are an infinite number of points where the receiver could be (A point in circumference of a circle), If we have onlt two (the receiver could be in one of two locations (the intersection between two circles).
 
-This image is From  [http://giscommons.org/?page_id=879|Geocommons]:
+This image is From  ![http://giscommons.org/?page_id=879|Geocommons]:
 ![image](https://user-images.githubusercontent.com/61708947/205941836-c77bb4b3-c8a7-450a-8f34-d6128009caa1.png)
 
 - **GPS** can't be used in In-door localization because:
